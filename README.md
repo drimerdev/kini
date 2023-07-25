@@ -1,2 +1,3 @@
-# kini
-kiniDOS guide &amp; wiki
+# kiniDOS
+Welcome to kiniDOS wiki & guide!
+
